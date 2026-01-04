@@ -1,4 +1,4 @@
-# Lista de Exercícios 2 — NumPy e Álgebra Linear
+## Lista de Exercícios 2 — NumPy e Álgebra Linear
 
 Exercícios focados em:
 - Indexação e slicing
